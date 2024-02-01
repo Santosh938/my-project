@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.asana-card{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    margin: 10px auto;
+    text-align: center;
+    background-color: skyblue;
+    gap: 20px;
+    padding: 20px;
+    border-radius: 16px;
+}
+.asana-card img{
+    height: 150px;
+    width: 150px;
+    border-radius: 16px;
+}

@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* body{
+    background-image: url(../img/output-onlinepngtools.png);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position-x: center;
+    background-position-y: center;
+} */
+.home-h1{
+    text-align: center;
+}
+.home-p{
+    text-align: center;
+}
+.home-social{
+    width: 100%;
+}
+.social-ul{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.social-li{
+    list-style: none;
+}
+a:hover i{
+    color: red;
+}
